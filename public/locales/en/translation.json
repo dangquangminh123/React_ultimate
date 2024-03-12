@@ -1,0 +1,108 @@
+{
+    "homepage": {
+        "title1": "There's a better way to ask",
+        "title2": "You don't want to make a boring form. Maybe It's time to give us a try...",
+        "title3": {
+            "login": "Get's started. It's free",
+            "doing": "Doing Quiz Now"
+        }
+    },
+    "header": {
+        "home": "Home",
+        "user": "Users",
+        "admin": "Admins",
+        "setting": "Settings",
+        "profile": "Profile",
+        "logout": "Logout",
+        "login": "Log in",
+        "register": "Sign up",
+        "quiz": "Doing Quiz"
+    },
+    "quiz": {
+        "question": "Question",
+        "result": "Your Result...",
+        "total-question": "Total Questions",
+        "total-correct": "Total Correct Answers",
+        "show-answer": " Show Answers",
+        "close": "Close"
+    },
+    "login": {
+        "do-not-have": "Don't have an account yet?",
+        "signup": "Sign Up",
+        "welcome": "Hello, who’s this?",
+        "email": "Email",
+        "password": "Password",
+        "forgot-pass": "Forgot password ?",
+        "do-login": "Login to HoiDanIT",
+        "back": "Go to Homepage"
+    },
+    "register": {
+        "already": "Already have an account?",
+        "login": "Log In",
+        "start": "Start your journey?",
+        "email": "Email",
+        "password": "Password",
+        "username": "Username",
+        "submit": "Create my free account",
+        "back": "Go to Homepage"
+    },
+    "admin": {
+        "dashboard": {
+            "title": "Analytics Dashboard",
+            "total-user": "Total Users",
+            "total-quiz": "Total Quizzes",
+            "total-question": "Total Questions",
+            "total-answer": "Total Answers"
+        },
+        "sidebar": {
+            "dashboard": "DashBoard",
+            "manage-user": "Manage Users",
+            "manage-quiz": "Manage Quizzes",
+            "manage-question": "Manage Questions",
+            "feature": "Features",
+            "brand": "Hoi Dan IT"
+        },
+        "manage-users": {
+            "title": "Manage User",
+            "add-new": " Add new users",
+            "role": "Role",
+            "action": "Action",
+            "update": "Update",
+            "delete": "Delete",
+            "view": "View",
+            "modal": {
+                "title": "Add New User",
+                "role": "Role",
+                "t-update": "Update A User",
+                "t-delete": "Confirm Delete the User?",
+                "confirm": "Are you sure to delete this user. email =",
+                "sure": "Confirm",
+                "cancel": "Cancel"
+            }
+        },
+        "manage-quiz": {
+            "a1": "Manage Quizzes",
+            "a2": "Update Q/A Quizzes",
+            "a3": "Assign to Users",
+            "add-quiz": "Add new Quiz",
+            "quiz-name": "Name",
+            "quiz-desc": "Description",
+            "quiz-save": "Save",
+            "quiz-upload": "Upload Image",
+            "s-quiz": "Select Quiz:",
+            "s-user": "Select User:",
+            "a-questions": "Questions:",
+            "add-questions": "Add Questions:",
+            "q": "Question",
+            "a": "Answer ",
+            "d": " 's description",
+            "u": "Update Questions",
+            "q-assign": "Assign",
+            "sq": "Save Questions",
+            "tq": "Manage Questions"
+        }
+    },
+    "profile": {
+        "title": "Profile"
+    }
+}

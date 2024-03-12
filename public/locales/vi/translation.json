@@ -1,0 +1,108 @@
+{
+    "homepage": {
+        "title1": "Có rất nhiều cái để hỏi...",
+        "title2": "và Cách dễ nhất là thử làm cái bài quizz...",
+        "title3": {
+            "login": "Bắt đầu ngay. Hoàn toàn miễn phí.",
+            "doing": "Làm Bài Quiz Now"
+        }
+    },
+    "header": {
+        "home": "Trang Chủ",
+        "user": "Người Dùng",
+        "admin": "Quản Trị",
+        "setting": "Cài Đặt",
+        "profile": "Thông Tin Cá Nhân",
+        "logout": "Đăng Xuất",
+        "login": "Đăng Nhập",
+        "register": "Đăng Ký",
+        "quiz": "Làm Bài Quiz"
+    },
+    "quiz": {
+        "question": "Câu hỏi",
+        "result": "Kết quả bài thi...",
+        "total-question": "Tổng số câu hỏi",
+        "total-correct": "Tổng số câu trả lời đúng",
+        "show-answer": "Hiển thị đáp án",
+        "close": "Đóng"
+    },
+    "login": {
+        "do-not-have": "Bạn Chưa Có Tài Khoản?",
+        "signup": "Đăng Ký",
+        "welcome": "Hello, 500 Anh Em :)",
+        "email": "Email",
+        "password": "Mật Khẩu",
+        "forgot-pass": "Quên mật khẩu cmnr ?",
+        "do-login": "Login Nào",
+        "back": "Trở về Trang Chủ"
+    },
+    "register": {
+        "already": "Bạn Đã Có Tài Khoản?",
+        "login": "Đăng Nhập",
+        "start": "Điền Nhanh Nào ^^",
+        "email": "Email",
+        "password": "Mật Khẩu",
+        "username": "Tên Hiển Thị",
+        "submit": "Tạo Tài Khoản",
+        "back": "Trở về Trang Chủ"
+    },
+    "admin": {
+        "dashboard": {
+            "title": "Thống Kê",
+            "total-user": "Tổng Users",
+            "total-quiz": "Tổng Bài Test",
+            "total-question": "Tổng Câu Hỏi",
+            "total-answer": "Tổng Câu Trả Lời"
+        },
+        "sidebar": {
+            "dashboard": "Tổng Quan",
+            "manage-user": "Quản Lý Người Dùng",
+            "manage-quiz": "Quản Lý Quizzes",
+            "manage-question": "Quản Lý Questions",
+            "feature": "Chức Năng",
+            "brand": "Hỏi Dân IT"
+        },
+        "manage-users": {
+            "title": "Quản Lý Người Dùng",
+            "add-new": " Thêm Mới",
+            "role": "Vai Trò",
+            "action": "Hành Động",
+            "update": "Sửa",
+            "delete": "Xóa",
+            "view": "Chi Tiết",
+            "modal": {
+                "title": "Thêm mới Users",
+                "role": "Vai Trò",
+                "t-update": "Cập Nhật Người Dùng",
+                "t-delete": "Xác Nhận Xóa Người Dùng?",
+                "confirm": "Bạn Có Chắc Chắn Muốn Xóa Người Dùng Này, với email =",
+                "sure": "Xác Nhận",
+                "cancel": "Hủy"
+            }
+        },
+        "manage-quiz": {
+            "a1": "Quản Lý Bài Thi",
+            "a2": "Cập Nhật Q/A Cho Bài Thi",
+            "a3": "Gán Quiz Cho Người Dùng",
+            "add-quiz": "Thêm bài quiz mới",
+            "quiz-name": "Tên bài Quiz",
+            "quiz-desc": "Miêu Tả",
+            "quiz-save": "Lưu",
+            "quiz-upload": "Tải Ảnh",
+            "s-quiz": "Chọn Quiz:",
+            "s-user": "Chọn Người Dùng:",
+            "a-questions": "Câu Hỏi:",
+            "add-questions": "Thêm Câu Hỏi:",
+            "q": "Câu hỏi ",
+            "a": "Đáp án ",
+            "d": " miêu tả",
+            "u": "Cập Nhật Bài Quiz",
+            "q-assign": "Gán Quiz Cho User",
+            "sq": "Lưu Câu Hỏi",
+            "tq": "Quản Lý Questions"
+        }
+    },
+    "profile": {
+        "title": "Quản Lý Thông Tin Người Dùng"
+    }
+}
